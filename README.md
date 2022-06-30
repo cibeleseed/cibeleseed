@@ -1,6 +1,6 @@
 ## Sobre mim
-- Oi sou a professora **Cibele**
-- 	:smiley: Trabalho no CECS
+- Oi sou a professora **Cibele**;
+- 	:smiley: Trabalho no CECS;
 - Disciplina: História, Ensino Religioso e Pensamento Computacional.
 <!---
 cibeleseed/cibeleseed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
