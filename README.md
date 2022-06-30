@@ -1,5 +1,5 @@
 ## Sobre mim
-- Oi sou a professora **Cibele**;
+- Oi! Sou a professora **Cibele** :brazil:;
 - 	:smiley: Trabalho no CECS;
 - Disciplina: História, Ensino Religioso e Pensamento Computacional.
 <!---
